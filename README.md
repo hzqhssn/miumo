@@ -7,6 +7,13 @@ Android code to detection motion from by comparing two pictures.
 
 Android code to detection motion from by comparing two pictures. It comes with an Activity that initializes a camera and grabs two pictures and compares them.
 
+* Created by Justin Wetherell	
+* Google: http://code.google.com/p/android-motion-detection	
+* Github: http://github.com/phishman3579/android-motion-detection	
+* LinkedIn: http://www.linkedin.com/in/phishman3579	
+* E-mail: phishman3579@gmail.com	
+* Twitter: http://twitter.com/phishman3579
+
 ## Details
 
 You essentially have to override an onPreviewFrame(byte[] data, Camera cam) method and convert from the default YUV to RGB:
